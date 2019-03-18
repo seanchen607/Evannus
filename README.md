@@ -1,2 +1,2 @@
 # Evannus
-Euplotes vannus genomic data analysis
+Perl scripts used in Euplotes vannus genomic data analysis
