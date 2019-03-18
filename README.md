@@ -1,4 +1,4 @@
-# Evannus
+# Euplotes vannus genomic analysis
 Perl scripts used in Euplotes vannus genomic data analysis
 
 ## 1. Coverage distribution of scaffolds
