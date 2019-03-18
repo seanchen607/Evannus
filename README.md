@@ -3,6 +3,9 @@ Perl scripts used in Euplotes vannus genomic data analysis
 
 ## 1. Coverage distribution of scaffolds
 01scf_coverage_distribution.pl
+\#Usage:
+    perl 01scf_coverage_distribution.pl  Str.sul_scaffolds_nobac_nomito_noredundancy.fasta
+
 
 ## 2. Filter out low coverage scaffolds
 02scf_coverage_selection.pl
