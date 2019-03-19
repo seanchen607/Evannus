@@ -31,7 +31,7 @@ Usage:
 
 Usage:
 
-    perl split_sam_into_mapped_unmapped.pl <SAM file>
+    perl 04split_sam_into_mapped_unmapped.pl  <SAM file>
 
 ----------------------------------------
 ## 5. List names of mapped contigs/scaffolds in SAM file
@@ -39,7 +39,7 @@ Usage:
 
 Usage:
 
-    perl 05list_sam_mapped_targets.pl <SAM file>
+    perl 05list_sam_mapped_targets.pl  <SAM file>
 
 ----------------------------------------
 ## 6. Filter out genes without RNA-seq reads mapping
