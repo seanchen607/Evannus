@@ -56,3 +56,19 @@ Usage:
 Usage:
 
     perl 07frameshifting_detect_BLASTX_tab.pl  <input_file BLASTX tab>  <output file1 frameshifting BLASTX tab>  <output file2 frameshifting adjacent region>  <frame_distance>
+
+----------------------------------------
+## 8. Analyze stop codon usage from output file of BLASTX and transcriptome assembly
+### 08stop_codon_usage_BLASTX_tab.pl
+
+Usage:
+
+    perl 08stop_codon_usage_BLASTX_tab.pl  <input_file1_transcript_FASTA>  <input_file2_BLASTX_tab>  <output_file1_stop_codon_usage>
+
+----------------------------------------
+## 9. Detect nanochromosomes containing multiple genes from genome annotation file
+### 09detect_joint_nanochromosome_gff3.pl
+
+Usage:
+
+    perl 09detect_joint_nanochromosome_gff3.pl  <input_file>  <output_file1>  <output_file2>  <gap>
